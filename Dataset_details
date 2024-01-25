@@ -1,0 +1,15 @@
+This file contains following tables-
+1. facttable
+2. dimlocation
+
+Column description for facttable table-
+1. facttablepk
+2. dimlocationpk
+3. grosscharge
+4. payment
+5. adjustment
+6. ar
+
+Column description for dimlocation table-
+1. dimlocationpk
+2. locationname
